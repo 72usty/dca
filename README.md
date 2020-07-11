@@ -1,5 +1,6 @@
 # dca
 Dollar Cost Averaging
+Credit goes to Brianddk. Found this DCA script via his reddit post here: https://old.reddit.com/r/BitcoinBeginners/comments/gy5qe2/dollar_cost_averaging/
 
 1. Determine annual investment goal then divide by 365 (daily=goal/365)
 2. Every day ACH daily amount into Gemini (or CB Pro)
